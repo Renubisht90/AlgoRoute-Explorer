@@ -76,10 +76,5 @@ python AlgoRoute_Explorer.py
 
 If you'd like to enhance or contribute to this project, feel free to fork the repository and raise a pull request. Contributions are welcome!
 
-## License
 
-This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for more information.
 
----
-
-Developed with ❤️ by [RenuBisht90](https://github.com/RenuBisht90)
