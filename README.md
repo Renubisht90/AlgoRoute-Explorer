@@ -62,19 +62,6 @@ python AlgoRoute_Explorer.py
 - 🎮 Game developers exploring AI pathfinding
 - 👨‍🏫 Educators and instructors
 
-## Screenshots
-
-### A* Algorithm
-
-![A* Algorithm](https://github.com/RenuBisht90/AlgoRoute_Explorer/blob/main/A-Star%20Algorithm.png)
-
-### BFS Algorithm
-
-![BFS](https://github.com/RenuBisht90/AlgoRoute_Explorer/blob/main/BFS.png)
-
-## Contribution
-
-If you'd like to enhance or contribute to this project, feel free to fork the repository and raise a pull request. Contributions are welcome!
 
 
 
